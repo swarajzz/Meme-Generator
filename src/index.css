@@ -17,9 +17,12 @@ body {
   /* position: relative; */
   box-sizing: border-box;
   min-height: 100vh;
-  background-color: #2b3a55;
+  background-image: url(assets/bg-3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  /* background-color: #2b3a55; */
 }
-
 
 .heading-primary {
   font-size: 3rem;
