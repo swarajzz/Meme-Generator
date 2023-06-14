@@ -1,0 +1,27 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  line-height: 1.5;
+  font-weight: 400;
+  font-family: "karla", sans-serif;
+}
+
+body {
+  /* position: relative; */
+  box-sizing: border-box;
+  min-height: 100vh;
+  background-color: #2b3a55;
+}
+
+
+.heading-primary {
+  font-size: 3rem;
+  margin-right: auto;
+}
